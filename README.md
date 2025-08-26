@@ -32,7 +32,7 @@ fastapi_stock/
 
 Clonar el repositorio:
     ```bash
-   git clone 
+   git clone https://github.com/claralcala/fastapi_stock_backend
    cd fastapi_stock
 
 
